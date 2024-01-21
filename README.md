@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I'm Mariia 👋
+This section is currently under construction 🛠️
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marichkazb&layout=compact)
 <!--
 **marichkazb/marichkazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
