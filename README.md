@@ -1,5 +1,10 @@
 ### Hi, I'm Mariia 👋
-This section is currently under construction 🛠️
+
+  👩‍💻 Passionate **Software Engineering student** in the second year of the Software Engineering and Management program at **GU | Chalmers**. \
+  🖥️ Possess a solid background in **web development**, with a focus on Frontend development using **React** and **React Native**. \
+  🇸🇪 Based in **Gothenburg** 
+
+Open to collaboration and eager to contribute to innovative projects!🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marichkazb&layout=compact)
 <!--
